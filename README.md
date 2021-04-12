@@ -13,7 +13,7 @@
   Creating simple window that used imgui for graphic interface with glfw and glad for window and render build using the cmake build. But note that it still need compiler tools and opengl3 if install.
 
 # Glad 0.1.34:
-  There is premade files to help quick build test. It used web packager.
+  There is premade files to help quick build test. It used web service generate the files.
 
 # glad1:
  * https://github.com/Dav1dde/glad
