@@ -12,6 +12,11 @@
 # Information:
   Creating simple window that used imgui for graphic interface with glfw and glad for window and render build using the cmake build. But note that it still need compiler tools and opengl3 if install.
 
+# build:
+  used the cmake command to build app.
+
+  First time build will notice build fail is due to linking check to creating application execute. Second time build should able to get execute file.
+
 # Glad 0.1.34:
   There is premade files to help quick build test. It used web service generate the files.
 
